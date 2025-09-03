@@ -16,10 +16,10 @@ public class Main {
             option = scanner.nextInt();
 
             switch (option) {
-                case 1:
+                case 1:                    
                     System.out.println("----- Datos Primer participante ----- ");
                     System.out.println("Ingrese su nombre: ");
-                    String nombre1 = scanner.nextLine();;
+                    String nombre1 = scanner.nextLine();
                     System.out.println("Ingrese su edad: ");
                     Integer edad1 = scanner.nextInt();
                     System.out.println("----- ---- ---- ---- ---- ---- - ----- ");
